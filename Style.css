@@ -1,0 +1,54 @@
+p{
+   font-size: red;
+
+
+}
+
+ul{
+ display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 4rem;
+list-style: none;
+
+
+
+
+
+}
+
+
+
+nav {
+display: flex;
+align-items: center;
+justify-content: space-between;
+background-color: blueviolet;
+}
+body{
+margin: 0;
+padding: 0;
+}
+a{
+   color: rgb(251, 247, 247);
+   background-color: rgb(255, 13, 0);
+   border: solid;
+   width:fit-content ;
+}
+main{
+display: flex;
+align-items: center;
+justify-content: space-between;
+text-align: justify;
+margin-left: 150px;
+}
+
+
+
+img{
+   margin-top: 16px;
+}
+
+
+
+
